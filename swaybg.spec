@@ -1,11 +1,11 @@
 Summary:	Wallpaper tool for Wayland compositors
 Name:		swaybg
-Version:	1.1
+Version:	1.1.1
 Release:	1
 License:	MIT
 Group:		Applications
 Source0:	https://github.com/swaywm/swaybg/releases/download/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	ac08f6bfa71275196ede6c631dfb337e
+# Source0-md5:	c6578aaef4b0d198e7f8dfa855eea6a2
 URL:		https://github.com/swaywm/swaybg
 BuildRequires:	cairo-devel
 BuildRequires:	gdk-pixbuf2-devel
